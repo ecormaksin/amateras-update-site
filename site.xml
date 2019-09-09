@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/net.java.amateras.modeler_2.0.1.201909091654.jar" id="net.java.amateras.modeler" version="2.0.1.201909091654">
+   <feature url="features/net.java.amateras.modeler_2.0.1.201909091716.jar" id="net.java.amateras.modeler" version="2.0.1.201909091716">
       <category name="modeler"/>
    </feature>
    <category-def name="modeler" label="Amateras Modeler"/>
